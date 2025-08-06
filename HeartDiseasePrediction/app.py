@@ -305,8 +305,6 @@ st.markdown("""
 <div class="caption-custom" style="text-align:center;">
 Created with ❤ & Streamlit | Pulse Medical Theme | Modern UI, accessibility, and audio feedback &copy; 2025<br>
 SHAIK YASEEN &nbsp;|&nbsp; 22BQ1A05K4@vvit.net<br>
-U BHAVYA &nbsp;|&nbsp; 22BQ1A05M5@vvit.net<br>
-M V LAKSHMAN &nbsp;|&nbsp; 22BQ1A05N5@vvit.net<br>
-R DURGA PRASAD &nbsp;|&nbsp; 23BQ5A0534@vvit.net<br>
 </div>
 """, unsafe_allow_html=True)
+
